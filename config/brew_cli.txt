@@ -1,0 +1,6 @@
+cowsay
+git
+gnupg
+nmap
+ncdu
+tree
