@@ -1,6 +1,8 @@
+chrome-cli
 cowsay
 git
 gnupg
 nmap
 ncdu
+slackcat
 tree

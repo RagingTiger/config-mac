@@ -1,0 +1,7 @@
+atom
+docker
+etcher
+google-chrome
+iterm2
+slack
+tunnelblick
