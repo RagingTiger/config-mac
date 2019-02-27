@@ -3,6 +3,6 @@ git
 gnupg
 nmap
 parallel
-slackcat
+python
 tree
 
