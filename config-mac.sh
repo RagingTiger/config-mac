@@ -12,7 +12,7 @@ get_brew(){
 
 ex_brew(){
   # get cli dependencies for install
-  brew install "$(curl -fsSL ${CLI_DEP} | tr '\n' ' ')"
+  brew install $(curl -fsSL ${CLI_DEP} | tr '\n' ' ')
 }
 
 main(){
