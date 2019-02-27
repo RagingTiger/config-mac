@@ -2,6 +2,7 @@ ffmpeg
 git
 gnupg
 nmap
+parallel
 slackcat
 tree
 
