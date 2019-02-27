@@ -1,8 +1,7 @@
-chrome-cli
-cowsay
+ffmpeg
 git
 gnupg
 nmap
-ncdu
 slackcat
 tree
+
