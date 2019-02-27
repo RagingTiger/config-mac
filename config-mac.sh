@@ -17,7 +17,9 @@ ex_brew(){
 
 main(){
   # first download brew
-  get_brew
+  if ! which brew > /dev/null; then
+    get_brew
+  fi
 
   # next install dependencies
   ex_brew
