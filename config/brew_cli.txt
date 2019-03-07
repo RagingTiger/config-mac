@@ -5,4 +5,5 @@ nmap
 parallel
 python
 tree
+wget
 
