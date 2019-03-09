@@ -1,6 +1,7 @@
 ffmpeg
 git
 gnupg
+hub
 nmap
 parallel
 python
