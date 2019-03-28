@@ -1,6 +1,6 @@
 atom
 docker
-etcher
+balenaetcher
 google-chrome
 iterm2
 slack
